@@ -1,5 +1,7 @@
 # codevitarealtimepromblems
 
+
+## Prime time again
 Here on earth, our 24-hour day is composed of two parts, each of 12 hours. Each hour in each part has a corresponding hour in the other part separated by 12 hours: the hour essentially measures the duration since the start of the day part. For example, 1 hour in the first part of the day is equivalent to 13, which is 1 hour into the second part of the day.
 
 Now, consider the equivalent hours that are both prime numbers. We have 3 such instances for a 24-hour 2-part day:
