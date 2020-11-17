@@ -6,11 +6,11 @@ Here on earth, our 24-hour day is composed of two parts, each of 12 hours. Each 
 
 Now, consider the equivalent hours that are both prime numbers. We have 3 such instances for a 24-hour 2-part day:
 
-5~17
+5 ~ 17
 
-7~19
+7 ~ 19
 
-11~23
+11 ~ 23
 
 
 
@@ -20,9 +20,10 @@ Accept two natural numbers D, P >1 corresponding respectively to number of hours
 
 ## Example:
 
-### Input: 24 2
+### Input: 24  2
 
-### Output: 3 (We have 3 instances of equivalent prime hours: 5~17, 7~19 and 11~23.)
+### Output: 
+3 (We have 3 instances of equivalent prime hours: 5 ~ 17, 7 ~ 19 and 11 ~ 23.)
 
 Constraints
 
@@ -46,7 +47,7 @@ Output must be a single number, corresponding to the number of instances of equi
 
 ### Input
 
-36 3
+36  3
 
 ### Output
 
@@ -73,6 +74,9 @@ Duration of each day part = 12
 Hence the answers is 2.
 
 ------------------------------------------------------------------------
+
+## 2. Minimize the sum
+
 Given an array of integers, perform atmost K operations so that the sum of elements of final array is minimum. An operation is defined as follows -
 
 Consider any 1 element from the array, arr[i].
