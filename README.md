@@ -1,6 +1,5 @@
 # codevitarealtimepromblems
-
-
+ ![cpp](https://coursehorse.imgix.net/images/course/17715/main/Developer%20Bootcamp%20CC%20Programmer%20Bootcamp.png?auto=format%2Cenhance%2Ccompress&crop=entropy&fit=crop&h=220&ixlib=php-1.2.1&q=90&w=330)
 ## 1. Prime time again
 Here on earth, our 24-hour day is composed of two parts, each of 12 hours. Each hour in each part has a corresponding hour in the other part separated by 12 hours: the hour essentially measures the duration since the start of the day part. For example, 1 hour in the first part of the day is equivalent to 13, which is 1 hour into the second part of the day.
 
