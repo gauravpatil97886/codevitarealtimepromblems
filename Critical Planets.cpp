@@ -1,7 +1,11 @@
-Critical Planets
+## Critical Planets
 
 
-War between Republic and Separatist is escalating. The Separatist are on a new offensive. They have started blocking the path between the republic planets (represented by integers), so that these planets surrender due to the shortage of food and supplies. The Jedi council has taken a note of the situation and they have assigned Jedi Knight Skywalker and his Padawan Ahsoka to save the critical planets from blockade (Those planets or system of planets which can be accessed by only one path and may be lost if that path is blocked by separatist).
+/* War between Republic and Separatist is escalating. The Separatist are on a new offensive. 
+ey have started blocking the path between the republic planets (represented by integers),
+so that these planets surrender due to the shortage of food and supplies. The Jedi council has 
+taken a note of the situation and they have assigned Jedi Knight Skywalker and his Padawan Ahsoka to save the critical planets
+from blockade (Those planets or system of planets which can be accessed by only one path and may be lost if that path is blocked by separatist)./*
 
 
 
